@@ -18,7 +18,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:destek@blockrp.com"
     }
   ],
   "topbarCtaButton": {
@@ -33,24 +33,24 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "BlockRP",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Community",
+      "name": "BlockRP",
       "icon": "slack",
       "url": "https://mintlify.com/community"
     },
     {
-      "name": "Blog",
+      "name": "BlockRP",
       "icon": "newspaper",
       "url": "https://mintlify.com/blog"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "BlockRP",
       "pages": [
         "introduction",
         "quickstart",
